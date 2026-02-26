@@ -1,7 +1,7 @@
 # Fraud-Risk-Audit-Prediction-System
 An AI-powered system that performs automated transaction audit, risk assessment, and fraud prediction using machine learning.
 
-**Features
+** FEATURES **
 
 Fraud probability prediction (predict_proba)
 
@@ -15,7 +15,7 @@ Downloadable audit results
 
 Interactive Streamlit dashboard
 
-**ML Approach
+** ML APPROACH **
 
 Model: Random Forest Classifier
 
@@ -27,7 +27,7 @@ Handles class imbalance and risk thresholding
 
 Each transaction is converted into a feature vector and classified using supervised learning.
 
-**Tech Stack
+** TECH STACK **
 
 Python
 
